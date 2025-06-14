@@ -1,1 +1,1 @@
-This edit is from GitHub only.
+This is from Git only.
